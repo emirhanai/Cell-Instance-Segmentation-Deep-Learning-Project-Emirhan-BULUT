@@ -204,8 +204,6 @@ image = Image.fromarray(imgg)
 image.save('testtt.png')
 image.show()
 
-segment_image.segmentAsPascalvoc("/content/testtt.png", output_image_name = "image_new.png")
-
 from keras.models import load_model
 
 models = load_model('/content/drive/MyDrive/final_model.h5')
