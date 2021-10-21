@@ -8,14 +8,14 @@ In addition, although the software took a long time to complete due to the insuf
 
 The artificial intelligence software I developed was first in a 9-pack.
 
-Finally, I developed deep learning (Artificial neural networks) software segmentation that can detect different objects of interest with 97.19% accuracy in biological images showing neuronal cell types.
+Finally, I developed deep learning (Artificial neural networks) software segmentation that can detect different objects of interest with 97.47% accuracy in biological images showing neuronal cell types.
 
 **I am happy to present this software to you!**
 
 ### MODEL ACCURACY AND LOSS RESULT
 
-`Model Accuracy Score: 0.9719`
-`Model Loss Score: 0.0840`
+`Model Accuracy Score: 0.9747`
+`Model Loss Score: 0.0640`
 
 Data Link 1: **[https://drive.google.com/drive/folders/1jVMCRAYBsVFVdH2jl_HzPqhsNeERNjIT?usp=sharing]**
 
